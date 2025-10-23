@@ -1,0 +1,1 @@
+from .bonkamat_meneger_json import  *
